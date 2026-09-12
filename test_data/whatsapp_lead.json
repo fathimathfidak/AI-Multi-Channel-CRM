@@ -1,0 +1,56 @@
+[
+  {
+    "lead_id": "TEST001",
+    "full_name": "Test Lead One",
+    "email": "lead001@example.com",
+    "phone": "9995000001"
+  },
+  {
+    "lead_id": "TEST002",
+    "full_name": "Test Lead Two",
+    "email": "lead002@example.com",
+    "phone": "9995000002"
+  },
+  {
+    "lead_id": "TEST003",
+    "full_name": "Test Lead Three",
+    "email": "lead003@example.com",
+    "phone": "9995000003"
+  },
+  {
+    "lead_id": "TEST004",
+    "full_name": "Test Lead Four",
+    "email": "lead004@example.com",
+    "phone": "9995000004"
+  },
+  {
+    "lead_id": "TEST005",
+    "full_name": "Test Lead Five",
+    "email": "lead005@example.com",
+    "phone": "9995000005"
+  },
+  {
+    "lead_id": "TEST006",
+    "full_name": "Test Lead Six",
+    "email": "lead006@example.com",
+    "phone": "9995000006"
+  },
+  {
+    "lead_id": "TEST007",
+    "full_name": "Test Lead Seven",
+    "email": "lead007@example.com",
+    "phone": "9995000007"
+  },
+  {
+    "lead_id": "TEST008",
+    "full_name": "Test Lead Eight",
+    "email": "lead008@example.com",
+    "phone": "9995000008"
+  },
+  {
+    "lead_id": "TEST009",
+    "full_name": "Test Lead Nine",
+    "email": "lead009@example.com",
+    "phone": "9995000009"
+  }
+]

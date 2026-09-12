@@ -1,0 +1,10 @@
+requests
+python-dotenv
+psycopg[binary]
+SQLAlchemy
+alembic
+fastapi
+uvicorn[standard]
+httpx2
+PyJWT
+pwdlib[argon2]
